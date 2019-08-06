@@ -1,8 +1,8 @@
 
-# Funkcija suranda visus natûrinio skaièiaus x daliklius.
+# Funkcija suranda visus natÅ«rinio skaiÄiaus x daliklius.
 #
-# Parametrai: x -- tikrinamas natûrinis skaièius.
-# Rezultatas: d -- skaièiaus x dalikliø vektorius.
+# Parametrai: x -- tikrinamas natÅ«rinis skaiÄius.
+# Rezultatas: d -- skaiÄiaus x dalikliÅ³ vektorius.
 
 
 visi.dalikliai <- function(x) {
